@@ -1,0 +1,7 @@
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\bin\Debug\Day2_Assignments.exe.config
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\bin\Debug\Day2_Assignments.exe
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\bin\Debug\Day2_Assignments.pdb
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\obj\Debug\Day2_Assignments.csproj.CoreCompileInputs.cache
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\obj\Debug\Day2_Assignments.exe
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\obj\Debug\Day2_Assignments.pdb
+C:\Users\mshaik5\source\repos\Day2_Assignments\Day2_Assignments\obj\Debug\Day2_Assignments.csproj.AssemblyReference.cache
